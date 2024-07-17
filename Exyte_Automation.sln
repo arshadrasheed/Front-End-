@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitFamilyFileProcessing", "RevitFamilyFileProcessing\RevitFamilyFileProcessing.csproj", "{A77723CD-7D68-4E8C-968A-4CE4CA8B0F05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PipeSorting", "PipeSorting\PipeSorting.csproj", "{A96A8856-0AC8-4D1F-8A20-36A762969696}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex_Ti_Missing Line Numbers", "Ex_Ti_Missing Line Numbers\Ex_Ti_Missing Line Numbers.csproj", "{2E8827CB-2A90-49CC-B851-4A77A2AEEA0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested Family", "Nested Family\Nested Family.csproj", "{902A0325-D0DE-43CF-8BE6-6D6F5D259984}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A77723CD-7D68-4E8C-968A-4CE4CA8B0F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A77723CD-7D68-4E8C-968A-4CE4CA8B0F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A77723CD-7D68-4E8C-968A-4CE4CA8B0F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A77723CD-7D68-4E8C-968A-4CE4CA8B0F05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A96A8856-0AC8-4D1F-8A20-36A762969696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96A8856-0AC8-4D1F-8A20-36A762969696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A96A8856-0AC8-4D1F-8A20-36A762969696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A96A8856-0AC8-4D1F-8A20-36A762969696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E8827CB-2A90-49CC-B851-4A77A2AEEA0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E8827CB-2A90-49CC-B851-4A77A2AEEA0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E8827CB-2A90-49CC-B851-4A77A2AEEA0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E8827CB-2A90-49CC-B851-4A77A2AEEA0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{902A0325-D0DE-43CF-8BE6-6D6F5D259984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{902A0325-D0DE-43CF-8BE6-6D6F5D259984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{902A0325-D0DE-43CF-8BE6-6D6F5D259984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{902A0325-D0DE-43CF-8BE6-6D6F5D259984}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14EB68D0-EDB8-49A1-A465-7705C1866421}
+	EndGlobalSection
+EndGlobal
