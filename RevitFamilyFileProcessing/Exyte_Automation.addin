@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Import MetaData</Name>
+		<FullClassName>RevitFamilyFileProcessing.Apps</FullClassName>
+		<Description>Import Metadata</Description>
+		<Assembly>Exyte_Automation\RevitFamilyFileProcessing.dll</Assembly>
+		<AddInId>F6483AD4-47FC-45C6-8C7C-3DD1E28F4DD3</AddInId>
+		<VendorId>ADSK</VendorId>
+		<VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>
